@@ -1,0 +1,11 @@
+# 发布包 / 压缩包（需要跟踪时用 git add -f）
+*.zip
+*.7z
+*.rar
+
+# 临时 / 备份 / 日志
+*.bak
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

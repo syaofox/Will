@@ -1,0 +1,9 @@
+# 保持游戏资源文件字节完全一致，不做换行转换
+* -text
+
+# 二进制资源
+*.sprite binary
+*.flac binary
+*.texture binary
+*.wav binary
+*.ogg binary
